@@ -1,1 +1,4 @@
 # VSCODE-configuration
+这是Visual Studio Code的c语言开发环境的配置方法：
+
+先创建一个文件夹存储c源文件，然后在该文件夹中创建一个文件夹名为.vscode，然后在其中依据模板创建tasks和launch两个json文件即可
